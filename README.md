@@ -3,7 +3,7 @@
 ## 📂 Portfolio
 🔗 [Live Demo](https://Ithecoderr.github.io/CODSOFT/Portfolio/)
 
-## 📂 Portfolio
+## 📂 Calculator
 🔗 [Live Demo](https://Ithecoderr.github.io/CODSOFT/Calculator/) 
 
 
