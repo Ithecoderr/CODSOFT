@@ -6,4 +6,7 @@
 ## 📂 Calculator
 🔗 [Live Demo](https://Ithecoderr.github.io/CODSOFT/Calculator/)
 
+## 📂 Landing Page
+🔗 [Live Demo](https://Ithecoderr.github.io/CODSOFT/Landing-page/)
+
 
